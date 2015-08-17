@@ -4,6 +4,6 @@ module.exports = {
     expand: true,
     flatten: true,
     src: 'stylesheets/*.css',
-    dest: 'stylesheets/'
+    dest: 'stylesheets'
   }
 }
