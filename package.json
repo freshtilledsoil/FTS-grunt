@@ -2,7 +2,7 @@
   "name": "fts-grunt",
   "version": "0.1.0",
   "author": "Fresh Tilled Soil",
-  "description": "Fresh Tilled SOil default grunt configuratiobn",
+  "description": "Fresh Tilled Soil default grunt config",
   "repository": {
     "type": "git",
     "url": "git@github.com:freshtilledsoil/FTS-grunt.git"
