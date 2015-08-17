@@ -3,6 +3,6 @@ module.exports = {
   dev: {
     expand: true,
     flatten: true,
-    src: _dest + 'css/*.css'
+    src: 'stylesheets/*.css'
   }
 }
