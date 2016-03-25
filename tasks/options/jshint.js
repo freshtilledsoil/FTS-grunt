@@ -1,3 +1,3 @@
 module.exports = {
-  beforeconcat: ['javascripts/app.js']
+  beforeconcat: ['src/assets/js/app.js']
 }

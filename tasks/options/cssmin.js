@@ -1,7 +1,7 @@
 module.exports = {
   combine: {
     files: {
-      'stylesheets/manifest.min.css': ['stylesheets/manifest.css']
+      'src/assets/css/app.min.css': ['src/assets/css/app.css']
     }
   }
 }
