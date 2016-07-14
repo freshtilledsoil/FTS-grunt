@@ -9,7 +9,7 @@ module.exports = {
   },
   css: {
     files: ['src/assets/css/**', 'src/assets/css/*.scss'],
-    tasks: ['sass', 'autoprefixer', 'cssmin', 'copy'],
+    tasks: ['sass', 'postcss', 'cssmin', 'copy'],
     options: {
       spawn: false,
     }
